@@ -1,0 +1,44 @@
+[04-Jan-2026 11:44:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[07-Jan-2026 04:05:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[12-Jan-2026 03:32:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[12-Jan-2026 05:35:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[04-Feb-2026 06:30:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[19-Feb-2026 17:07:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[28-Feb-2026 22:03:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[18-Mar-2026 10:00:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[24-Mar-2026 23:10:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[26-Mar-2026 16:57:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36
+[29-Mar-2026 06:07:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'PHPMailer\PHPMailer\OAuthTokenProvider' not found in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/PHPMailer/OAuth.php on line 36

@@ -1,0 +1,32 @@
+[07-Oct-2025 16:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14
+[08-Oct-2025 01:33:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14
+[08-Oct-2025 01:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14
+[08-Oct-2025 07:01:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14
+[01-Nov-2025 00:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14
+[01-Nov-2025 08:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14
+[01-Nov-2025 08:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14
+[24-Feb-2026 03:10:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/elementor-pro.php on line 14

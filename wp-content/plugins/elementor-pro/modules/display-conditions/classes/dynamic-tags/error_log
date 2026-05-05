@@ -1,0 +1,24 @@
+[07-Oct-2025 19:44:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php on line 7
+[07-Oct-2025 20:00:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php on line 6
+[08-Oct-2025 05:42:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php on line 7
+[08-Oct-2025 05:43:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php on line 6
+[24-Feb-2026 06:14:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/custom-fields-data-provider.php on line 7
+[24-Feb-2026 06:21:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Modules\DisplayConditions\Classes\DynamicTags\Data_Provider' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/display-conditions/classes/dynamic-tags/dynamic-tags-data-provider.php on line 6

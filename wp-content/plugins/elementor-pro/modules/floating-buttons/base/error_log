@@ -1,0 +1,96 @@
+[07-Oct-2025 17:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[07-Oct-2025 17:13:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[08-Oct-2025 03:33:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[08-Oct-2025 03:33:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[08-Oct-2025 03:35:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[08-Oct-2025 03:39:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[08-Oct-2025 03:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[08-Oct-2025 03:56:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[08-Oct-2025 03:58:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[08-Oct-2025 04:02:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[01-Nov-2025 01:15:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[01-Nov-2025 01:16:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[01-Nov-2025 12:59:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[01-Nov-2025 12:59:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[01-Nov-2025 13:01:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[01-Nov-2025 13:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[01-Nov-2025 13:20:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[01-Nov-2025 13:21:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[01-Nov-2025 13:28:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[01-Nov-2025 13:32:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[01-Nov-2025 13:45:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[01-Nov-2025 13:45:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8
+[24-Feb-2026 03:38:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Contact_Button_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-contact-button-base-pro.php on line 8
+[24-Feb-2026 03:39:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\FloatingButtons\Base\Widget_Floating_Bars_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/floating-buttons/base/widget-floating-bars-base-pro.php on line 8

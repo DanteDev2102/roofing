@@ -1,0 +1,32 @@
+[01-Nov-2025 01:50:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php on line 8
+[01-Nov-2025 01:50:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php on line 16
+[01-Nov-2025 05:29:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php on line 8
+[01-Nov-2025 05:31:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php on line 16
+[01-Nov-2025 05:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php on line 16
+[01-Nov-2025 05:49:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php on line 8
+[24-Feb-2026 03:59:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Native.php on line 16
+[24-Feb-2026 03:59:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Laravel\SerializableClosure\Contracts\Serializable' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/laravel/serializable-closure/src/Serializers/Signed.php on line 8

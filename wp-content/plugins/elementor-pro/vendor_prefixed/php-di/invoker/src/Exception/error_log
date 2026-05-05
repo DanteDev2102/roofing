@@ -1,0 +1,44 @@
+[01-Nov-2025 02:28:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php on line 9
+[01-Nov-2025 03:02:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php on line 9
+[01-Nov-2025 09:38:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php on line 9
+[01-Nov-2025 09:39:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php on line 9
+[01-Nov-2025 09:56:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php on line 9
+[01-Nov-2025 10:01:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php on line 9
+[01-Nov-2025 10:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php on line 9
+[01-Nov-2025 10:18:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php on line 9
+[01-Nov-2025 10:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php on line 9
+[24-Feb-2026 04:39:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotEnoughParametersException.php on line 9
+[24-Feb-2026 04:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorProDeps\Invoker\Exception\InvocationException' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Exception/NotCallableException.php on line 9

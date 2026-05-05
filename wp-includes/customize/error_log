@@ -1,0 +1,20 @@
+[03-Feb-2026 00:27:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[07-Mar-2026 16:47:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[13-Mar-2026 20:43:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[14-Mar-2026 18:29:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[24-Mar-2026 15:35:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17

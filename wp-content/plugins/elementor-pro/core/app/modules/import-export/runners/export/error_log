@@ -1,0 +1,32 @@
+[07-Oct-2025 18:04:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[08-Oct-2025 05:43:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[08-Oct-2025 05:45:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[08-Oct-2025 05:47:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[01-Nov-2025 02:33:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[01-Nov-2025 15:19:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[01-Nov-2025 15:19:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10
+[24-Feb-2026 04:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/app/modules/import-export/runners/export/templates.php on line 10

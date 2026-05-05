@@ -1,0 +1,32 @@
+[01-Nov-2025 02:58:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php on line 13
+[01-Nov-2025 03:57:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php on line 12
+[01-Nov-2025 11:08:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php on line 13
+[01-Nov-2025 11:08:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php on line 12
+[01-Nov-2025 11:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php on line 13
+[01-Nov-2025 11:09:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php on line 12
+[24-Feb-2026 04:52:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php on line 13
+[24-Feb-2026 05:50:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php on line 12

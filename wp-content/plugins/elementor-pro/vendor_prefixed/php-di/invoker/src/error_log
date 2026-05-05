@@ -1,0 +1,16 @@
+[01-Nov-2025 02:26:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\InvokerInterface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php on line 19
+[01-Nov-2025 15:21:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\InvokerInterface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php on line 19
+[01-Nov-2025 15:23:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\InvokerInterface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php on line 19
+[24-Feb-2026 04:38:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\InvokerInterface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/Invoker.php on line 19

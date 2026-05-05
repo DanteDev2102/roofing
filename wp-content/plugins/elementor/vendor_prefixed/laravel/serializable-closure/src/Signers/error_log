@@ -1,0 +1,48 @@
+[07-Oct-2025 15:47:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[07-Oct-2025 20:32:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[07-Oct-2025 21:22:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[07-Oct-2025 22:17:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[07-Oct-2025 22:18:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[07-Oct-2025 22:21:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[31-Oct-2025 23:43:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[01-Nov-2025 04:56:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[01-Nov-2025 05:25:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[01-Nov-2025 06:09:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[01-Nov-2025 06:10:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6
+[24-Feb-2026 02:51:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorDeps\Laravel\SerializableClosure\Contracts\Signer' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/vendor_prefixed/laravel/serializable-closure/src/Signers/Hmac.php on line 6

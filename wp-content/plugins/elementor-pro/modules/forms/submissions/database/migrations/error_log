@@ -1,0 +1,52 @@
+[07-Oct-2025 17:50:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php on line 4
+[07-Oct-2025 17:50:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php on line 4
+[07-Oct-2025 20:10:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php on line 4
+[07-Oct-2025 20:13:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php on line 4
+[07-Oct-2025 20:19:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php on line 4
+[01-Nov-2025 02:06:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php on line 4
+[01-Nov-2025 02:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php on line 4
+[01-Nov-2025 04:36:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php on line 4
+[01-Nov-2025 04:37:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php on line 4
+[01-Nov-2025 04:45:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php on line 4
+[01-Nov-2025 04:45:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php on line 4
+[24-Feb-2026 04:05:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php on line 4
+[24-Feb-2026 04:06:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/initial.php on line 4

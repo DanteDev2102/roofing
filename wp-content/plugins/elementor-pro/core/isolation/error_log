@@ -1,0 +1,40 @@
+[07-Oct-2025 17:44:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[07-Oct-2025 21:05:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[08-Oct-2025 03:21:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[08-Oct-2025 03:22:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[08-Oct-2025 03:23:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[01-Nov-2025 01:49:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[01-Nov-2025 04:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[01-Nov-2025 12:46:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[01-Nov-2025 12:48:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5
+[24-Feb-2026 03:59:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorPro\Core\Isolation\Wordpress_Adapter_Interface' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/core/isolation/wordpress-adapter.php on line 5

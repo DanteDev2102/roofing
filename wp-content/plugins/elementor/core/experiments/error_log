@@ -1,0 +1,28 @@
+[07-Oct-2025 16:12:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[08-Oct-2025 06:12:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[01-Nov-2025 00:19:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[01-Nov-2025 15:55:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[01-Nov-2025 15:56:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[01-Nov-2025 16:00:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[24-Feb-2026 03:02:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13

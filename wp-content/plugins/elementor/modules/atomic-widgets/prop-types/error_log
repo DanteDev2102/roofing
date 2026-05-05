@@ -1,0 +1,56 @@
+[07-Oct-2025 15:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[08-Oct-2025 03:29:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[08-Oct-2025 03:30:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[08-Oct-2025 03:32:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[08-Oct-2025 03:41:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[08-Oct-2025 03:56:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[08-Oct-2025 03:57:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[31-Oct-2025 23:48:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[01-Nov-2025 13:13:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[01-Nov-2025 13:44:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[01-Nov-2025 13:44:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[01-Nov-2025 13:50:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[01-Nov-2025 13:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5
+[24-Feb-2026 02:53:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\AtomicWidgets\PropTypes\Color_Prop_Type' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor/modules/atomic-widgets/prop-types/background-color-overlay-prop-type.php on line 5

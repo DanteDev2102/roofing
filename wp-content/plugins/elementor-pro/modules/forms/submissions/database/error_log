@@ -1,0 +1,72 @@
+[07-Oct-2025 17:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[07-Oct-2025 17:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[07-Oct-2025 22:27:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[07-Oct-2025 22:27:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[07-Oct-2025 22:42:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[07-Oct-2025 22:51:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[07-Oct-2025 22:57:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[07-Oct-2025 23:05:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[01-Nov-2025 02:05:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[01-Nov-2025 02:06:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[01-Nov-2025 06:13:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[01-Nov-2025 06:19:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[01-Nov-2025 06:28:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[01-Nov-2025 06:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[01-Nov-2025 06:39:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11
+[01-Nov-2025 06:42:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[24-Feb-2026 04:05:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migration.php on line 7
+[24-Feb-2026 04:05:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Core\Base\Base_Object' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/forms/submissions/database/query.php on line 11

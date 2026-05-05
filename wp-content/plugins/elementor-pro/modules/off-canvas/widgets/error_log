@@ -1,0 +1,24 @@
+[07-Oct-2025 17:42:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\NestedElements\Base\Widget_Nested_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14
+[08-Oct-2025 06:12:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\NestedElements\Base\Widget_Nested_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14
+[01-Nov-2025 01:46:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\NestedElements\Base\Widget_Nested_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14
+[01-Nov-2025 15:54:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\NestedElements\Base\Widget_Nested_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14
+[01-Nov-2025 15:55:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\NestedElements\Base\Widget_Nested_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14
+[24-Feb-2026 03:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\NestedElements\Base\Widget_Nested_Base' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/modules/off-canvas/widgets/off-canvas.php on line 14

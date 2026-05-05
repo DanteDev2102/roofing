@@ -1,0 +1,100 @@
+[01-Nov-2025 02:22:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php on line 15
+[01-Nov-2025 02:28:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php on line 17
+[01-Nov-2025 02:29:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php on line 11
+[01-Nov-2025 02:42:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php on line 13
+[01-Nov-2025 02:43:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php on line 12
+[01-Nov-2025 09:18:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php on line 15
+[01-Nov-2025 09:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php on line 11
+[01-Nov-2025 09:18:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php on line 17
+[01-Nov-2025 09:18:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php on line 13
+[01-Nov-2025 09:19:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php on line 12
+[01-Nov-2025 09:33:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php on line 15
+[01-Nov-2025 09:33:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php on line 11
+[01-Nov-2025 09:33:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php on line 17
+[01-Nov-2025 09:33:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php on line 13
+[01-Nov-2025 09:35:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php on line 12
+[01-Nov-2025 09:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php on line 15
+[01-Nov-2025 09:47:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php on line 12
+[01-Nov-2025 09:48:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php on line 17
+[01-Nov-2025 09:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php on line 13
+[01-Nov-2025 09:54:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php on line 11
+[24-Feb-2026 04:37:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php on line 15
+[24-Feb-2026 04:39:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php on line 11
+[24-Feb-2026 04:39:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php on line 17
+[24-Feb-2026 04:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/TypeHintResolver.php on line 13
+[24-Feb-2026 04:50:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'ElementorProDeps\Invoker\ParameterResolver\ParameterResolver' not found in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-content/plugins/elementor-pro/vendor_prefixed/php-di/invoker/src/ParameterResolver/ResolverChain.php on line 12

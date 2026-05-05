@@ -1,0 +1,52 @@
+[25-Oct-2025 08:45:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2025 00:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Jan-2026 11:46:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Jan-2026 04:06:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Jan-2026 03:36:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Jan-2026 05:36:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Feb-2026 06:31:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Feb-2026 17:09:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Feb-2026 22:04:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Mar-2026 10:02:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Mar-2026 23:12:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Mar-2026 16:58:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Mar-2026 06:10:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/creafzdi/brightlightroofing.com/wp-includes/widgets/class-wp-widget-block.php on line 17

@@ -118,8 +118,13 @@ define( 'WP_DEBUG', false );
 
 
 
-define( 'WP_HOME', 'http://localhost:8080' );
-define( 'WP_SITEURL', 'http://localhost:8080' );
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+    $_SERVER['HTTPS'] = 'on';
+}
+$http_host = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : 'localhost:8080';
+$protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https://' : 'http://';
+define( 'WP_HOME', $protocol . $http_host );
+define( 'WP_SITEURL', $protocol . $http_host );
 
 /* That's all, stop editing! Happy publishing. */
 

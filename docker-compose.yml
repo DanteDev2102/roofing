@@ -1,9 +1,7 @@
-version: '3.8'
-
 services:
   db:
     image: mariadb:10.6
-    container_name: roofing_db
+    container_name: roofing_mariadb
     restart: always
     environment:
       MYSQL_DATABASE: creafzdi_roofing
@@ -12,12 +10,11 @@ services:
       MYSQL_RANDOM_ROOT_PASSWORD: "yes"
     volumes:
       - db_data:/var/lib/mysql
-      # Se monta el dump para que se importe automáticamente al iniciar la BD vacía.
       - ./creafzdi_roofing.sql:/docker-entrypoint-initdb.d/init.sql:ro
 
   wordpress:
     image: wordpress:latest
-    container_name: roofing_wordpress
+    container_name: roofing_wp
     restart: always
     ports:
       - "8080:80"
